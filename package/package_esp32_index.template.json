@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "esp32",
-      "maintainer": "Espressif Systems",
+      "maintainer": "Eric Thieme-Garmann",
       "websiteURL": "https://github.com/espressif/arduino-esp32",
       "email": "hristo@espressif.com",
       "help": {
@@ -12,12 +12,12 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "",
+          "version": "2.0.17beta",
           "category": "ESP32",
-          "url": "",
-          "archiveFileName": "",
-          "checksum": "",
-          "size": "",
+          "url": "https://github.com/Thiemann96/arduino-esp32/archive/refs/tags/2.0.17.beta.zip",
+          "archiveFileName": "arduino-esp32-2.0.17.beta.zip",
+          "checksum": "SHA-256:a5835e95ef157f2b147a04636f335306b7c9c729900cd107c1312c067b1146b4",
+          "size": "266606540",
           "help": {
             "online": ""
           },
